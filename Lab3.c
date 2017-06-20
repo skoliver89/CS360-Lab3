@@ -1,5 +1,5 @@
 /* warning the following code is not 100% accurate.
-/* The header is found nicely, but bits are not interperated correctly
+/* The header is found nicely, but bits are not interperated correctly 
 
 #include <stdio.h>
 #include <stdlib.h>
